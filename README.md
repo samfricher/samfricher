@@ -15,7 +15,9 @@
 
 ### Currently building · Learn
 
-I'm building **Learn**, a **local learning platform** architected to work with any AI subscription. It combines a **Rust runtime**, **persistent learner state**, and **learning tools** with a teaching philosophy centered on continually finding the optimal path from what you currently know to deep, durable understanding of anything you want to learn.
+I'm building **Learn**, a **local platform for learning anything**, architected to work with any AI subscription and integrate into any workspace with one command: `learn init`. It grounds explanations in research and provided sources, whether you're studying university textbooks and lecture notes or learning the codebase you're working in.
+
+Its **Rust runtime**, **persistent learner state**, and **learning tools** support a teaching philosophy centered on continually finding the optimal path from what you currently know to deep, durable understanding of whatever you want to learn.
 
 *It's currently private, but you can see my development activity in the contribution graph below.*
 
