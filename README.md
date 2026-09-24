@@ -15,7 +15,7 @@
 
 ### Currently building · Learn
 
-I'm building **Learn**, an AI learning companion in **Rust** that works inside tools like Codex and Claude Code. It grounds explanations in your course materials or codebase, carries forward what you've demonstrated across sessions, and adapts teaching, practice, and spaced review as you learn.
+I'm building **Learn**, a **local learning platform** architected to work with any AI subscription. It combines a **Rust runtime**, **persistent learner state**, and **learning tools** with a teaching philosophy centered on continually finding the optimal path from what you currently know to deep, durable understanding of anything you want to learn.
 
 *It's currently private, but you can see my development activity in the contribution graph below.*
 
